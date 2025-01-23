@@ -67,3 +67,14 @@ Datatypes - net,reg, integer, real, string, time, Parameter, Vector,Array,Memory
 Compiler Directives
 
 ![image](https://github.com/user-attachments/assets/4f580aa3-01ec-42d7-b56b-9151501b79c3)
+
+Verilog Program Structure -Module
+
+![image](https://github.com/user-attachments/assets/cc45b930-49c8-49b8-bc7a-0594ac1a840c)
+
+![image](https://github.com/user-attachments/assets/4faae513-e7d6-4e77-8d41-8cf63deb35f9)
+
+ Ports
+
+ ![image](https://github.com/user-attachments/assets/bef8f79e-395b-422b-bbd1-23dfe01a1a4c)
+
