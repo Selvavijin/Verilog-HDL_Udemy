@@ -78,3 +78,36 @@ Verilog Program Structure -Module
 
  ![image](https://github.com/user-attachments/assets/bef8f79e-395b-422b-bbd1-23dfe01a1a4c)
 
+Port Connection Rules
+
+![image](https://github.com/user-attachments/assets/a437a703-a54f-4ef3-ac94-c9b534b5990e)
+
+Design Methodologies Approaches
+
+![image](https://github.com/user-attachments/assets/a8623df2-f9d4-4cf1-bb13-cebda4cd966e)
+
+Here the example is shown as constructing the module C first and then constructing the modules A and B which is the top level approach. If we design the modules A and B first and then design the module C, then it is the bottom up approach.
+
+![image](https://github.com/user-attachments/assets/052d825f-5155-4ec3-bb7b-a89b56470097)
+
+Gate Level Model Introduction
+
+![image](https://github.com/user-attachments/assets/f2e23f1e-d7cc-4adb-8436-e7f2ccacaf8d)
+
+![image](https://github.com/user-attachments/assets/f7db66df-d7cf-4773-8f28-786c9e8b8f03)
+
+Example: 4x1 Mux
+
+![image](https://github.com/user-attachments/assets/740668dc-8656-46be-8b03-da95c8f1c16b)
+
+Example: Full Adder
+
+![image](https://github.com/user-attachments/assets/07dabbe0-c1a0-4fad-9d6b-7a3741267f26)
+
+Tri-state Buffers with Examples
+
+![image](https://github.com/user-attachments/assets/62a6d518-9b92-4903-b641-3fd0167727eb)
+
+Array of Instance with example
+
+![image](https://github.com/user-attachments/assets/5633b6ef-1b1c-4d17-888e-ef54e9815b5b)
