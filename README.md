@@ -39,3 +39,31 @@ FPGA vs ASIC:
 An example is paracetamol tablet. When the tablet is identified first, lets say it is 1 crore rupees. Because they have to find the formula to do the tablet. But afterwards, only making charges is seen. So, the cost reduces drastically to 1 rupee. Similarly in ASIC design, the cost of the first chip will be in crores and for the further chips, the cost will gets reduced. Whenever there is a bulk requirement only we will go for ASIC design. So that the price will get reduced. FPGA is made up of CLBs and each CLBs are made up of some SRAM chips and some MUXs. 
 
 ![image](https://github.com/user-attachments/assets/d419da7c-490d-41d2-b8c8-b2d0f018ecdb)
+
+Three levels of verilog design Description:
+
+![image](https://github.com/user-attachments/assets/9938a339-4147-4db2-a31d-30ba1ad649f8)
+
+![image](https://github.com/user-attachments/assets/880446ce-ae35-4365-ac70-fdc2ceb93008)
+
+![image](https://github.com/user-attachments/assets/fdd7dd1f-065b-4da9-9484-de49c8d0289b)
+
+Example: mux_2x1 with 3 abstracts models
+
+![image](https://github.com/user-attachments/assets/a0aa751b-a6e2-4c08-a985-f6bf383e7f5b)
+
+![image](https://github.com/user-attachments/assets/83e50a22-bbb4-4b31-aca2-22e5f4919051)
+
+Language constructs -Comments, keywords, identifier, Number specific, Operators
+
+![image](https://github.com/user-attachments/assets/ca8df82c-c6f0-4960-914c-edb4c26d726d)
+
+Datatypes - net,reg, integer, real, string, time, Parameter, Vector,Array,Memory
+
+![image](https://github.com/user-attachments/assets/49c4e6f5-6e55-420e-8fad-a0d183dfd9a3)
+
+![image](https://github.com/user-attachments/assets/08d6927b-6987-42be-ad54-e2f060b3c0d4)
+
+Compiler Directives
+
+![image](https://github.com/user-attachments/assets/4f580aa3-01ec-42d7-b56b-9151501b79c3)
