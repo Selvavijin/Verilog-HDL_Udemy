@@ -1,3 +1,4 @@
+
 # Verilog-HDL_Udemy
 
 ![image](https://github.com/user-attachments/assets/472a2577-7a11-4d1c-9e85-b4eb57ba20ac)
@@ -111,3 +112,55 @@ Tri-state Buffers with Examples
 Array of Instance with example
 
 ![image](https://github.com/user-attachments/assets/5633b6ef-1b1c-4d17-888e-ef54e9815b5b)
+
+Data flow Modeling : assign statement
+
+![image](https://github.com/user-attachments/assets/237602c9-b822-4df2-b02e-21df887c463d)
+
+The two main things for the data flow modeling are, operators and "assign" which is the continuous assignment statement. 
+NOTE: In data flow modeling, all the inputs and outputs should be declared as wire. Because these are continuous assignment statement and so, no storage is required. 'reg' is used, when we need to hold a data.
+
+![image](https://github.com/user-attachments/assets/59ee1809-2ec0-4155-a6f8-8b800f74faec)
+
+Operators
+
+Here, '&&' is logical AND. '=' is for assign. '==' is for equal. '{ }' is the concatenation operator.
+
+![image](https://github.com/user-attachments/assets/154f17c8-efc1-4c70-85bd-d73845b36743)
+
+Arithmetic Operators
+
+![image](https://github.com/user-attachments/assets/2cd3a608-7404-4634-bbf9-15a9f131562b)
+
+Logical Operators
+
+For arithmetic operations, if we use 4 bits for input, we use 5 bits for the output. Because, there will be a carry. But, in logical operations, if we use 4 bits for input, we use 4 bits for output.
+
+![image](https://github.com/user-attachments/assets/07cd1fd3-60ec-4b35-8519-3ae4df55826a)
+
+Example : Full Adder: Logical operators
+
+![image](https://github.com/user-attachments/assets/15e7d071-2a64-4876-8d1a-25a0f85c48a0)
+
+Example : Full Adder: Arithmetic operators
+
+![image](https://github.com/user-attachments/assets/92e2c0bc-f264-48ea-a8a2-418b07e96e79)
+
+Example: Binary to Gray code converter
+
+![image](https://github.com/user-attachments/assets/db09d4bc-64fe-4ee9-b69c-b397e027670e)
+
+Logical and , Logical or (&&, ||)
+
+The output of logical AND and logical OR will be one bit value.
+
+![image](https://github.com/user-attachments/assets/8ae9a0ec-e564-42c1-ad01-97f8b7a7c7e7)
+
+Shift operators : Left/right Shift
+
+![image](https://github.com/user-attachments/assets/bbf0ac47-73f1-4d6d-a630-591b5c5ff401)
+
+Shifting without shift operator , just with concatenation operator
+
+![image](https://github.com/user-attachments/assets/8732aca5-b629-4d68-9dea-a890f4fa1995)
+
