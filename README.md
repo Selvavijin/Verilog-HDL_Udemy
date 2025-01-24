@@ -164,3 +164,35 @@ Shifting without shift operator , just with concatenation operator
 
 ![image](https://github.com/user-attachments/assets/8732aca5-b629-4d68-9dea-a890f4fa1995)
 
+Ternary operator : Example : 2x1 MUX, 4x1 MUX
+
+![image](https://github.com/user-attachments/assets/e8b8b822-ffc8-4793-b7de-bc44da500028)
+
+Relational operators Example: Comparator
+
+![image](https://github.com/user-attachments/assets/17fff4d4-485c-4935-8afc-2e0cd4abb40b)
+
+Equality (==) , case Equality (===) operators
+
+![image](https://github.com/user-attachments/assets/3c87ffaf-c526-4291-a19f-1b4610b21064)
+
+Reduction operator : Example: Parity Generator
+
+![image](https://github.com/user-attachments/assets/49539e11-2a7f-472b-9620-0c26a985f078)
+
+Behavioral Modeling - Introduction
+
+If we know the functionality of the design, we can write the behavioral code. Almost 90% of people use behavioral code. And some people use data flow model. And gate level model is rarely used. Since we can use the 'C' language constructs(if else, case, for, while) in the behavioral modeling, we use it the most. All those constructs should be written inside the procedural blocks. In combinational logic, people use blocking statements and in sequential logic, people use non-blocking statements.
+
+![image](https://github.com/user-attachments/assets/606ecb18-c9aa-4c31-a0bb-fd21d18b2261)
+
+Behavioral Modeling Constructs
+
+![image](https://github.com/user-attachments/assets/3d395375-6f74-446a-b89a-a06e9c210df3)
+
+Procedural Blocks- initial & always
+
+For hardware models, the processing is continuous so we will use the always block which is synthesisable. Similarly the initial block is used for initialization, where 'integer' like that initialization is not allowed in hardware. And this 'initial' block is used in testbench But, nowadays people are using this in design also. But this 'initial' block is never  synthesizable to hardware. These procedural blocks executes parallely which is called concurrency.
+
+![image](https://github.com/user-attachments/assets/a51d1070-3012-4579-b804-72a64dd396db)
+
