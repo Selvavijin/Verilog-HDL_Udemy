@@ -218,3 +218,13 @@ Advantage of Non-blocking assignment: Example: swapping
 
 ![image](https://github.com/user-attachments/assets/67407909-d33b-4977-8736-b0b6c16a4052)
 
+Testbench:
+
+Functional Simulation:
+
+![image](https://github.com/user-attachments/assets/42bc3b89-a6a6-4c5f-8a6c-07cad892b6d8)
+
+![image](https://github.com/user-attachments/assets/cacb1a24-ffb3-4017-9987-496834f5f88c)
+
+![image](https://github.com/user-attachments/assets/9bedb696-f572-482f-baf1-216fe313178d)
+
