@@ -196,3 +196,25 @@ For hardware models, the processing is continuous so we will use the always bloc
 
 ![image](https://github.com/user-attachments/assets/a51d1070-3012-4579-b804-72a64dd396db)
 
+Example: Clock Generation
+
+![image](https://github.com/user-attachments/assets/b9d5be0e-2e4e-4c2f-8f05-0441fbbe616f)
+
+Assignment Statements - Blocking & Non-blocking
+
+![image](https://github.com/user-attachments/assets/b58d2888-0042-4372-8651-5721342766f8)
+
+![image](https://github.com/user-attachments/assets/b28715a6-79b2-4661-bf68-da17aa2b2f97)
+
+Mechanism in Non-blocking
+
+![image](https://github.com/user-attachments/assets/47633a60-2053-494b-b33d-1718ed3a4efb)
+
+Concurrency
+
+![image](https://github.com/user-attachments/assets/7b2cd849-f3c6-40c9-aba2-ccc2fafcc841)
+
+Advantage of Non-blocking assignment: Example: swapping
+
+![image](https://github.com/user-attachments/assets/67407909-d33b-4977-8736-b0b6c16a4052)
+
