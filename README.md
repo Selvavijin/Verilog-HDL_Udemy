@@ -228,3 +228,16 @@ Functional Simulation:
 
 ![image](https://github.com/user-attachments/assets/9bedb696-f572-482f-baf1-216fe313178d)
 
+![image](https://github.com/user-attachments/assets/9624f203-4924-452b-86f0-f94f4559a34c)
+
+Example - Test bench for counter design
+
+![image](https://github.com/user-attachments/assets/fed3277c-3170-48af-af44-c110ba1a2a00)
+
+![image](https://github.com/user-attachments/assets/b8a192a3-ee8c-44c5-b5bd-ed873f704bb5)
+
+![image](https://github.com/user-attachments/assets/7301131c-f634-48fe-b80a-d462c0432869)
+
+Example - Test bench for Pulse generator
+
+![image](https://github.com/user-attachments/assets/e83569db-ce59-4329-803a-148d374b91db)
