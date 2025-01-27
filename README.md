@@ -224,6 +224,42 @@ Explanation of graph of non-blocking assignment statement: For the first rising 
 
 ![image](https://github.com/user-attachments/assets/5e93343a-15c4-4756-be99-3c1d51fe7609)
 
+If-else: statement: Example : 4x1 Mux
+
+Inside the if or else statement, if more than one statements are present, then it is compulsory to use the begin and end statements. Otherwise it is optional. If-else is also considered as a single statement, so if we use single if-else statement inside the always block, it is optional to use the begin and end statement.
+
+![image](https://github.com/user-attachments/assets/ebd81a14-4857-441c-a599-be953fe70067)
+
+Case – statement : Example : 4x1 Mux
+
+![image](https://github.com/user-attachments/assets/0659e52e-78d0-41d0-a0ad-9314cab387df)
+
+Advantage of Case over if-else
+
+Case statement is better than if-else statements.
+
+![image](https://github.com/user-attachments/assets/929c5aaf-d59f-45f7-96c8-98b77eea2b07)
+
+Loops: while, for, repeat, forever
+
+![image](https://github.com/user-attachments/assets/03b146ec-98d2-4577-8cd6-170a3c817cde)
+
+Parallel blocks - fork-join
+
+This fork-join block should be used in Testbench and not in the design.
+
+![image](https://github.com/user-attachments/assets/284fca2d-c674-4734-9ce3-ac78e06c227f)
+
+Combinational Logic circuits: List of Examples
+
+![image](https://github.com/user-attachments/assets/ca164a15-61a7-4928-8711-23b64a96bbe2)
+
+Example: 8x1 mux with 4x1 and 2x1
+
+This is a example for bottom up approach.2
+
+![image](https://github.com/user-attachments/assets/f647185e-f8cd-4893-9017-216b047e317c)
+
 Testbench:
 
 Functional Simulation:
