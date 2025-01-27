@@ -218,6 +218,12 @@ Advantage of Non-blocking assignment: Example: swapping
 
 ![image](https://github.com/user-attachments/assets/67407909-d33b-4977-8736-b0b6c16a4052)
 
+Advantage of Non-blocking assignment: Example : Pipelining
+
+Explanation of graph of non-blocking assignment statement: For the first rising edge of clk, Q1 is high, but there will be some delay. Due to this, Q2 will not be able to high and it will be high at the next clock edge.
+
+![image](https://github.com/user-attachments/assets/5e93343a-15c4-4756-be99-3c1d51fe7609)
+
 Testbench:
 
 Functional Simulation:
@@ -241,3 +247,7 @@ Example - Test bench for counter design
 Example - Test bench for Pulse generator
 
 ![image](https://github.com/user-attachments/assets/e83569db-ce59-4329-803a-148d374b91db)
+
+![image](https://github.com/user-attachments/assets/9b77560c-92b4-4f42-b57d-a5e39582ba39)
+
+
