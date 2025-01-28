@@ -280,6 +280,30 @@ Example : 3x8 Decoder and 3x8 Decoder using 2x4 decoder
 
 ![image](https://github.com/user-attachments/assets/260d2130-f686-4b3c-94af-c10c14d281a6)
 
+Example : 8x3 encoder
+
+![image](https://github.com/user-attachments/assets/23f18cf2-de48-49f1-9a3a-d1c7ab7dc765)
+
+Example : Priority encoder
+
+Here 'casex' is used since we used don't cares.
+
+![image](https://github.com/user-attachments/assets/8010b5f7-172f-4263-a6cf-5bc039825de6)
+
+Example : Seven Segment Display
+
+![image](https://github.com/user-attachments/assets/a0a30e8c-d8b0-41f3-8ffc-6b510064c470)
+
+Example : ALU
+
+![image](https://github.com/user-attachments/assets/1ee1b604-4d06-4dfc-8694-385c4216ec0a)
+
+![image](https://github.com/user-attachments/assets/8249455a-ae2b-460d-bcf0-4bbd242092aa)
+
+Sequential Logic Circuits: List of Examples
+
+![image](https://github.com/user-attachments/assets/13231750-10b1-433d-ac22-597aa56fcff5)
+
 Testbench:
 
 Functional Simulation:
@@ -305,5 +329,4 @@ Example - Test bench for Pulse generator
 ![image](https://github.com/user-attachments/assets/e83569db-ce59-4329-803a-148d374b91db)
 
 ![image](https://github.com/user-attachments/assets/9b77560c-92b4-4f42-b57d-a5e39582ba39)
-
 
