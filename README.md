@@ -256,9 +256,29 @@ Combinational Logic circuits: List of Examples
 
 Example: 8x1 mux with 4x1 and 2x1
 
-This is a example for bottom up approach.2
+This is a example for bottom up approach.
 
 ![image](https://github.com/user-attachments/assets/f647185e-f8cd-4893-9017-216b047e317c)
+
+Example: AND gate using 2x1 Mux
+
+Using MUX we can any circuits.
+
+![image](https://github.com/user-attachments/assets/fa6c6816-46fe-45a1-8b79-2aeb2470925d)
+
+Example: 1x8 Demux
+
+![image](https://github.com/user-attachments/assets/abaca8ab-ca49-43f3-9e80-3dde23cb1f04)
+
+Example: Full Adder & 4-bit Full Adder
+
+![image](https://github.com/user-attachments/assets/e1c3f6a7-5fbd-4369-af1f-d2fbf759a626)
+
+Example : 3x8 Decoder and 3x8 Decoder using 2x4 decoder
+
+![image](https://github.com/user-attachments/assets/7d0b877c-b302-4c0f-bb84-6e9fcc590c4d)
+
+![image](https://github.com/user-attachments/assets/260d2130-f686-4b3c-94af-c10c14d281a6)
 
 Testbench:
 
