@@ -304,6 +304,23 @@ Sequential Logic Circuits: List of Examples
 
 ![image](https://github.com/user-attachments/assets/13231750-10b1-433d-ac22-597aa56fcff5)
 
+Example: D Flip Flop vs D-Latch
+
+![image](https://github.com/user-attachments/assets/71aaf259-cb0b-42f6-a4b3-02ee2a07cb73)
+
+Example: Synchronous Reset D-Flip flop , Asynchronous Reset D-Flip flop
+
+![image](https://github.com/user-attachments/assets/78ab4b93-c91a-408c-87b9-8da926a5e4fd)
+
+Example : T-Flip Flop
+
+![image](https://github.com/user-attachments/assets/9ddc7d63-5065-4869-b048-8037590902f1)
+
+Example : Master-slave JK Flip Flop
+
+![image](https://github.com/user-attachments/assets/b6d47eb3-332c-44dd-afd3-039d5cb9549a)
+
+
 Testbench:
 
 Functional Simulation:
