@@ -290,9 +290,13 @@ Here 'casex' is used since we used don't cares.
 
 ![image](https://github.com/user-attachments/assets/8010b5f7-172f-4263-a6cf-5bc039825de6)
 
+![image](https://github.com/user-attachments/assets/fef1ef63-b77e-4274-9588-1e300d6c53af)
+
 Example : Seven Segment Display
 
 ![image](https://github.com/user-attachments/assets/a0a30e8c-d8b0-41f3-8ffc-6b510064c470)
+
+![image](https://github.com/user-attachments/assets/f7021962-f56e-47d2-9990-44628ec1eb9d)
 
 Example : ALU
 
