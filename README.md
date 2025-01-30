@@ -388,3 +388,22 @@ Example - Test bench for Pulse generator
 
 ![image](https://github.com/user-attachments/assets/9b77560c-92b4-4f42-b57d-a5e39582ba39)
 
+Functions & tasks and system tasks
+
+![image](https://github.com/user-attachments/assets/927f0ccb-a834-44ff-abd8-ebc244297138)
+
+![image](https://github.com/user-attachments/assets/946bb9ba-7462-4042-95b4-84a6e33d00d5)
+
+![image](https://github.com/user-attachments/assets/c7b8e0aa-b3d9-4925-9013-ce2a17a07fa4)
+
+![image](https://github.com/user-attachments/assets/60652d16-6824-41ef-9b78-dd3eb796d1ab)
+
+File based system tasks and random generator system task
+
+![image](https://github.com/user-attachments/assets/925d03e3-b277-4e2a-8abb-0f950cfc91c3)
+
+![image](https://github.com/user-attachments/assets/f7f75db1-9b9a-4b05-adf0-fba884dc19bf)
+
+![image](https://github.com/user-attachments/assets/5b58e4cb-5813-4d18-90ed-87a43d177f6c)
+
+
