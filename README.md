@@ -324,6 +324,43 @@ Example : Master-slave JK Flip Flop
 
 ![image](https://github.com/user-attachments/assets/b6d47eb3-332c-44dd-afd3-039d5cb9549a)
 
+Example: Counter
+
+Here the counter using FF is complex level and it is not used in the industry also. The second method is preferable.
+
+![image](https://github.com/user-attachments/assets/26490a6e-f621-4c62-aed5-5d5f44afe204)
+
+Example: UP/Down Counter
+
+![image](https://github.com/user-attachments/assets/6078a0be-6767-4ee5-b80d-8e8524b8060a)
+
+Example: clock divider using counter- Divide by 2,4,8,....
+
+![image](https://github.com/user-attachments/assets/4546fdd0-8b5d-4d19-a7e0-76283f5b49ee)
+
+Example: Pulse Generator: Mod-3 pulse generator
+
+![image](https://github.com/user-attachments/assets/a6bb01d6-bfc1-413a-bc48-f887c2266605)
+
+Example: Divide by 3 clock
+
+![image](https://github.com/user-attachments/assets/67dc8d0f-97db-445b-b463-aa9a76c5dca1)
+
+Example : Ring Counter vs Jonson Counter
+
+![image](https://github.com/user-attachments/assets/48370e13-84c8-45ad-aa22-87a66896397d)
+
+Example : Shift Registers : SISO, SIPO, PISO,PIPO
+
+![image](https://github.com/user-attachments/assets/6d0df67f-7d6a-45aa-96df-de8f982413ff)
+
+Switch level modeling
+
+![image](https://github.com/user-attachments/assets/de7c861a-91d5-41f1-b252-d51b81d68be0)
+
+![image](https://github.com/user-attachments/assets/7ca053c1-7a6d-4abb-87e4-a5d84385933c)
+
+![image](https://github.com/user-attachments/assets/29fa1f95-a35b-468e-89e5-549681502807)
 
 Testbench:
 
