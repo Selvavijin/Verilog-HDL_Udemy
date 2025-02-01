@@ -406,4 +406,45 @@ File based system tasks and random generator system task
 
 ![image](https://github.com/user-attachments/assets/5b58e4cb-5813-4d18-90ed-87a43d177f6c)
 
+Read file and write in to memory system task
+
+![image](https://github.com/user-attachments/assets/5fbe9261-cc9e-4d1f-8e3d-58553f441814)
+
+Programming Language Interface
+
+![image](https://github.com/user-attachments/assets/a6adc499-5630-4040-acd7-ac425c1ec1c6)
+
+FSM Topics
+
+![image](https://github.com/user-attachments/assets/a5fdbdec-0106-423e-bef2-eda07ce7ccfb)
+
+Why FSM ?
+
+![image](https://github.com/user-attachments/assets/2cf8698f-d644-451b-b6b7-e1068377b036)
+
+What is FSM ?
+
+![image](https://github.com/user-attachments/assets/db74a279-a38f-450f-a3c0-dc9b25e1d131)
+
+Hardware Realization of FSM : Component or Modules in FSM
+
+In any state machines we have 3 blocks, 1. Next state block, 2. Memory block and 3. Output block. Here, the Next state block and Output block are made of combinational logic and the memory block is FF.
+Moore machine: The output depends on the present state.
+Mealy machine: The output depends on the present state and the present inputs.
+
+![image](https://github.com/user-attachments/assets/9080974d-b1bc-4715-bfb8-494f931efb2c)
+
+Types of FSM and Mealy Moore FSM differences
+
+![image](https://github.com/user-attachments/assets/6466ba74-419b-4be9-8d16-49e4db4d0f26)
+
+Example : Mealy FSM
+
+In s0, we understood that when carry=1, the sum=0. But in s1, we cannot say the output when carry=0. It can be only known be the present input and the present state. 
+
+![image](https://github.com/user-attachments/assets/259509c5-b244-4772-95b3-ddd6f3d67620)
+
+Example: Moore FSM
+
+![image](https://github.com/user-attachments/assets/c8ef5cfb-61aa-4997-81d1-4f13519ab1f2)
 
