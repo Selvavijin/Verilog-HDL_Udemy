@@ -354,6 +354,14 @@ Example : Shift Registers : SISO, SIPO, PISO,PIPO
 
 ![image](https://github.com/user-attachments/assets/6d0df67f-7d6a-45aa-96df-de8f982413ff)
 
+Example: LFSR (Linear Feedback Shift Register)- Random Generator
+
+![image](https://github.com/user-attachments/assets/6f67c7ac-42c2-4dde-94c2-46186f45533c)
+
+Memory design
+
+![image](https://github.com/user-attachments/assets/8415e77c-9aae-410a-a97d-94a75c52011a)
+
 Switch level modeling
 
 ![image](https://github.com/user-attachments/assets/de7c861a-91d5-41f1-b252-d51b81d68be0)
@@ -460,7 +468,13 @@ Hands-on : Verilog HDL for Mealy FSM and run the execution
 
 Example: Divide by 2 clk using FSM
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5b3c3c25-547c-4f9b-a03a-168c7f391745)
 
 Example: Divide by 3 clk using FSM
+
+![image](https://github.com/user-attachments/assets/42bc91a3-d7c7-4ec4-8ac1-275d80dfa551)
+
+Example: 33 perecent duty cycle clock generation using FSM
+
+![Uploading image.png…]()
 
