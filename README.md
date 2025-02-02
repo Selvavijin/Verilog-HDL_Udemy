@@ -448,3 +448,13 @@ Example: Moore FSM
 
 ![image](https://github.com/user-attachments/assets/c8ef5cfb-61aa-4997-81d1-4f13519ab1f2)
 
+Example: Verilog HDL for Mealy FSM
+
+![image](https://github.com/user-attachments/assets/8e7ea421-34fa-4af4-ba77-6d0a01571492)
+
+Example: Verilog HDL for Moore FSM
+
+![image](https://github.com/user-attachments/assets/7e2c0892-21d2-41de-9bf4-43261986302f)
+
+Hands-on : Verilog HDL for Mealy FSM and run the execution
+
