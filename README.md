@@ -458,3 +458,6 @@ Example: Verilog HDL for Moore FSM
 
 Hands-on : Verilog HDL for Mealy FSM and run the execution
 
+Example: Divide by 2 clk using FSM
+
+![Uploading image.png…]()
