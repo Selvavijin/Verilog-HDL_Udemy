@@ -478,3 +478,5 @@ Example: 33 perecent duty cycle clock generation using FSM
 
 ![Uploading image.png…]()
 
+Sequence Detector using FSM
+
