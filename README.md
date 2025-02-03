@@ -476,7 +476,12 @@ Example: Divide by 3 clk using FSM
 
 Example: 33 perecent duty cycle clock generation using FSM
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/757be986-26e9-49f7-8126-68e55c877b37)
 
 Sequence Detector using FSM
+
+![image](https://github.com/user-attachments/assets/4b478a07-2b34-45b0-9441-ab9c051bf828)
+
+![Uploading image.png…]()
+
 
