@@ -468,23 +468,25 @@ Hands-on : Verilog HDL for Mealy FSM and run the execution
 
 Example: Divide by 2 clk using FSM
 
-![image](https://github.com/user-attachments/assets/5b3c3c25-547c-4f9b-a03a-168c7f391745)
+![image](https://github.com/user-attachments/assets/cc84d3a9-a81d-4224-b439-f497f887d72f)
 
 Example: Divide by 3 clk using FSM
 
-![image](https://github.com/user-attachments/assets/42bc91a3-d7c7-4ec4-8ac1-275d80dfa551)
+![image](https://github.com/user-attachments/assets/5b3c3c25-547c-4f9b-a03a-168c7f391745)
 
 Example: 33 perecent duty cycle clock generation using FSM
 
-![image](https://github.com/user-attachments/assets/757be986-26e9-49f7-8126-68e55c877b37)
+![image](https://github.com/user-attachments/assets/42bc91a3-d7c7-4ec4-8ac1-275d80dfa551)
 
 Sequence Detector using FSM
 
+![image](https://github.com/user-attachments/assets/757be986-26e9-49f7-8126-68e55c877b37)
+
 ![image](https://github.com/user-attachments/assets/4b478a07-2b34-45b0-9441-ab9c051bf828)
 
-![image](https://github.com/user-attachments/assets/3a86a62e-18ed-4b0b-9475-9fea22318a16)
-
 Memory controller with Design & TB
+
+![image](https://github.com/user-attachments/assets/3a86a62e-18ed-4b0b-9475-9fea22318a16)
 
 ![image](https://github.com/user-attachments/assets/d45dbe63-5c6d-485f-a95f-eedabba70b43)
 
