@@ -492,6 +492,38 @@ Memory controller with Design & TB
 
 ![image](https://github.com/user-attachments/assets/452f726c-9c27-41bc-9e7f-01358da8d54b)
 
+![image](https://github.com/user-attachments/assets/5785a139-6937-4cab-aa5a-ee4d44a66786)
+
+Introduction to FIFO
+
+![image](https://github.com/user-attachments/assets/6a0eaacf-9c1c-49bc-af48-80538e8df896)
+
+![image](https://github.com/user-attachments/assets/8be4a0f3-61ba-4cfc-81ad-619c544dc991)
+
+![image](https://github.com/user-attachments/assets/130f5c36-68d8-4737-948d-8678e2e47604)
+
+Write Read Operation of Normal RAM
+
+![image](https://github.com/user-attachments/assets/c8ba4162-0f3d-4e2a-894c-d1a995dd8990)
+
+FIFO I/O (input & Outputs)
+
+Address is required in RAM. But is not required in FIFO because the address will be generated internally.
+
+![image](https://github.com/user-attachments/assets/3e7c7521-1cc6-49a9-b1b5-f90fb49035fd)
+
+Block Diagram and Architecture of FIFO
+
+In FIFO we have RAM and some extra logic. This extra logic is used for the generation of address and also generate the status(FULL or EMPTY) of the FIFO. Initially the address is '0', so the first data will gets stored in the '0'th location and we have 8 locations, so we can store data for 8 'write clock', and for each write clock the counter gets incremented and the data is stored. Also, the write enable should be '1' to write data.
+
+![image](https://github.com/user-attachments/assets/777f8a5a-362d-4099-b4f9-5ebdc23a515d)
+
+Connection of FIFO design & Test bench environment
+
+We are designing the synchrounous FIFO, so there is no write or read clock and there is only a common clock.
+
 ![Uploading image.png…]()
+
+
 
 
