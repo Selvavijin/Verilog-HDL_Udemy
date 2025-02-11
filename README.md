@@ -522,8 +522,8 @@ Connection of FIFO design & Test bench environment
 
 We are designing the synchrounous FIFO, so there is no write or read clock and there is only a common clock.
 
-![Uploading image.png…]()
+Verilog HDL for FIFO design
 
-
+Verilog HDL code for FIFO Test Bench
 
 
