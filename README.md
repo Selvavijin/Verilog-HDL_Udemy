@@ -536,4 +536,17 @@ Hamming code complete Design & TB for error detection & correction
 
 ![image](https://github.com/user-attachments/assets/7abfbddf-1772-4801-9204-b7c70f65c8d3)
 
+FPGA
 
+CLB - It consists of SRAM Memory blocks followed by some array of Multiplexers then followed by D FF. The actual inputs of the design will be given to the select lines of the MUX. 
+IOB - It has tristate buffers.
+SM - These are used to connect the CLBs.
+Now coming again to the CLB. Let us consider the XNOR code is dumped in the FPGA. So, the output of the code is taken by the look up table. Then based on the input, we will get the output. 
+
+![image](https://github.com/user-attachments/assets/39d802f9-6a72-47d9-8858-d408b95969d6)
+
+![image](https://github.com/user-attachments/assets/dc6c55b8-613a-449e-8e1a-cebd81f7e3ec)
+
+![image](https://github.com/user-attachments/assets/38b476d6-8c62-41e1-9b67-f49d4fb6f1d9)
+
+![image](https://github.com/user-attachments/assets/93abdcad-ab2a-434e-816a-a82eabe5258e)
