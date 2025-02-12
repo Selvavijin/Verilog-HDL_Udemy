@@ -484,6 +484,8 @@ Sequence Detector using FSM
 
 ![image](https://github.com/user-attachments/assets/4b478a07-2b34-45b0-9441-ab9c051bf828)
 
+![image](https://github.com/user-attachments/assets/7a63edae-4ac2-4931-bca0-1290d8ebaab6)
+
 Memory controller with Design & TB
 
 ![image](https://github.com/user-attachments/assets/3a86a62e-18ed-4b0b-9475-9fea22318a16)
