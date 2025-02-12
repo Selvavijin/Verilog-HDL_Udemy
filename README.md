@@ -526,4 +526,14 @@ Verilog HDL for FIFO design
 
 Verilog HDL code for FIFO Test Bench
 
+Hamming code complete Design & TB for error detection & correction
+
+![image](https://github.com/user-attachments/assets/5dd24da8-977e-4cdf-868f-61bb2f5b233c)
+
+![image](https://github.com/user-attachments/assets/6d70476d-38ee-4f5a-beec-8efdceb81945)
+
+![image](https://github.com/user-attachments/assets/0ceab44e-39fe-48ed-8125-ed2ff4f2b3cc)
+
+![image](https://github.com/user-attachments/assets/7abfbddf-1772-4801-9204-b7c70f65c8d3)
+
 
