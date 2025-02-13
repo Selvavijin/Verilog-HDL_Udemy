@@ -526,7 +526,7 @@ We are designing the synchrounous FIFO, so there is no write or read clock and t
 
 Verilog HDL for FIFO design
 
-Verilog HDL code for FIFO Test Bench
+![image](https://github.com/user-attachments/assets/81f68f4d-ee90-4e39-9291-a85fb8720877)
 
 Hamming code complete Design & TB for error detection & correction
 
